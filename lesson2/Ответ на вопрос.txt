@@ -1,0 +1,3 @@
+Ответить на вопрос: Зачем нужна строка meta name="viewport" content="width=device-width, initial-scale=1.0"
+
+Для адаптации сайта под любое устройство.

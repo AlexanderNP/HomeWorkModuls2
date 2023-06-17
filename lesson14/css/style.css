@@ -1,0 +1,8 @@
+a,img {
+  display: block;
+}
+div{
+  width: 500px;
+  height: 500px;
+  background: url(../images/j.jpg) no-repeat;
+}

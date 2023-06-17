@@ -1,0 +1,15 @@
+p.text--bold {
+  font-weight: 700;
+}
+
+.parent>.child{
+  color:aqua
+}
+a{
+  display: block;
+}
+a[href="#blog"]
+{
+  color:rgb(233, 17, 136);
+}
+

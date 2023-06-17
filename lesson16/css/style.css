@@ -1,0 +1,40 @@
+p {
+  color: green;
+}
+
+p {
+  color: aqua;
+}
+
+p {
+  color: brown;
+}
+
+.text2 {
+  color: purple;
+}
+
+#text2 {
+  color: burlywood;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+}
+
+#block {
+  background-color: blue;
+}
+
+.block {
+  background-color: black;
+}
+
+div.block#block {
+  background-color: aquamarine;
+}
+
+.block>p {
+  color: black !important;
+}

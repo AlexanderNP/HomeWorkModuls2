@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Caveat";
+  font-weight: 400;
+  src: local("Caveat"),
+    url("../fonts/Caveat.eot") format("eot"),
+    url("../fonts/Caveat.woff") format("woff"),
+    url("../fonts/Caveat.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu Mono";
+  font-weight: 700;
+  src: local("Ubuntu Mono Bold"),
+    local("UbuntuMono-Bold"),
+    url("../fonts/UbuntuMono-Bold.eot") format("eot"),
+    url("../fonts/UbuntuMono-Bold.woff") format("woff"),
+    url("../fonts/UbuntuMono-Bold.woff2") format("woff2");
+  font-display: swap;
+}

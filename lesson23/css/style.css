@@ -1,0 +1,20 @@
+.container {
+  padding: 50px;
+  height: 100vh;
+}
+
+.block, .block-2 {
+  height: 100%;
+  border: 1px solid;
+}
+
+.block {
+  background: url(../images/dog.jpg) no-repeat 50% 50%, linear-gradient(#6e4aff, #49A16C);
+}
+
+.block-2 {
+  background-image: url(../images/laptop.jpg), linear-gradient(#2E9AFF, #F498AD);
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat: no-repeat;
+}

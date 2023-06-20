@@ -1,0 +1,13 @@
+.menu {
+  margin: 20px auto;
+  padding: 50px;
+}
+
+.menu__item {
+  font-size: 48px;
+  transition: all 1s;
+}
+
+.menu__item:first-child:hover {
+  color: red;
+}

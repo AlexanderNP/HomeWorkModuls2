@@ -1,0 +1,19 @@
+.box {
+  width: 1000px;
+  height: 500px;
+  margin: 200px auto;
+  border: 5px solid rgb(0, 7, 0); 
+}
+
+.box-item {
+  width: 150px;
+  height: 75px;
+  background-color: rgb(70, 70, 199);
+  border: 3px solid rgb(27, 138, 158); 
+}
+
+.box{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

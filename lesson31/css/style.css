@@ -1,0 +1,28 @@
+
+.title{
+  margin: 50px auto;
+  display: flex;
+  position: relative;
+  font-size: 32px;
+  align-items: center;
+  max-width: 650px;
+}
+.title::before{
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+  background-color: blue;
+  left: -10px;
+}
+
+.title::after{
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+  background-color: red;
+  right: 0px;
+}

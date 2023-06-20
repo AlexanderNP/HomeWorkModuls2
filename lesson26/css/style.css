@@ -1,0 +1,27 @@
+div {
+  margin: 50px;
+  height: 200px;
+  width: 200px;
+}
+
+.block-1 {
+  background-color: blue;
+  border: 5px solid #000000;
+  transition: border-color 3s 2s;
+}
+
+.block-1:hover {
+  border-color: #9a47ee;
+}
+
+.block-2{
+  background-color: rgb(255, 0, 221);
+  border: 5px solid #000000;
+  transition-property: border-color;
+  transition-duration: 3s;
+  transition-delay: 2s;
+}
+
+.block-2:hover{
+  border-color: #3db8f1;
+}

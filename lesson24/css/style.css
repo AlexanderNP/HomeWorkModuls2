@@ -1,0 +1,10 @@
+.block {
+  background-color: blue;
+  height: 200px;
+}
+.block{
+  position: fixed;
+  bottom: 100px;
+  left: 50vw;
+  right: 50px;
+}
